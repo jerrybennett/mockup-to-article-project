@@ -1,0 +1,26 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+ -- Please note: This module was added after I had started the course. So I have finished most of the other projects already. I believe this and the next project are optional for me but I will complete them both.
+
+  * What new skills have you learned?
+
+  How to find information online about the tools and language I am using.
+
+  * What has been easy?
+
+  Finding the information I need.
+
+  * What has been difficult?
+
+  Sometimes implementing solutions. Some of the "documentation" sections of a javascript tool may be sparse on "code examples." So I find myself spending a lot more time looking for and doing tutorials and searching forums for discussions on the topic.
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+  Checking the documentation for HTML5.
